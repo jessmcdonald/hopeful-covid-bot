@@ -118,7 +118,7 @@ const data = [
       text: "🐶'Close to 100% accuracy': Helsinki airport uses sniffer dogs to detect Covid",
       link: "https://www.theguardian.com/world/2020/sep/24/close-to-100-accuracy-airport-enlists-sniffer-dogs-to-test-for-covid-19",
       source: "@guardiannews",
-    },
+    }
   ];
 
 exports.data = data;
